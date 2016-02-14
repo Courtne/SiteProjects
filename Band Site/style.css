@@ -1,0 +1,18 @@
+h3 {
+  color:#ffffff;
+  text-align:center;
+}
+body {
+  /*background: #ff0000 url('polperro_cornwall.jpg') center no-repeat;*/
+  background-color: #ff0000;
+}
+p {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+p#dreckly {
+  color:red;
+}
+
+li {
+  font-family:Serif;
+}
