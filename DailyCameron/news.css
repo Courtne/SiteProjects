@@ -1,0 +1,56 @@
+div {
+  border-style: dotted;
+}
+
+.NavBar li {
+  display: inline;
+  font-size: 15px;
+  font-family: sans-serif;
+  width: 150px;
+  padding: 2px;
+  background-color: #CC0000;
+}
+
+.NavBar li a {
+
+
+}
+
+.NavBarLinks {
+  float: right;
+  width: 400px;
+  text-align: center;
+}
+
+.PageName h1 {
+  font-size: 90px;
+  font-style: italic;
+  font-family: fantasy;
+  font-weight: bolder;
+  font-kerning: normal;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.PageName {
+  text-align: center;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.LeAds {
+  float: right;
+}
+
+.SmallAd {
+  padding: 7px;
+}
+
+.BigAd {
+  padding: 7px;
+}
